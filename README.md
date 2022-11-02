@@ -9,7 +9,7 @@ TurtleEngine.Input
 TurlteEngine.Input is the core input module for Turlte Engine, a [MonoGame Framework](https://monogame.net) based engine..  It is currently being developed and is not ready for use of any kind.
 
 ## Version 1.0 Roadmap
-- [ ] Keyboard Input State Management
+- [x] Keyboard Input State Management
 - [ ] Mouse Input State Management
 - [ ] Gamepad Input State Management
 - [ ] Input Profiles
@@ -17,7 +17,7 @@ TurlteEngine.Input is the core input module for Turlte Engine, a [MonoGame Frame
     - [ ] Virtual Joystick
     - [ ] Virtual D-pad
 - [ ] Unit Tests
-    - [ ] Keyboard Test
+    - [x] Keyboard Test
     - [ ] Mouse Tests
     - [ ] Gamepad Tests
     - [ ] Input Profile Tests
@@ -25,7 +25,7 @@ TurlteEngine.Input is the core input module for Turlte Engine, a [MonoGame Frame
         - [ ] Virtual Joystick
         - [ ] Virtual D-pad
 - [ ] XML Documentation
-    - [ ] Keyboard INput
+    - [x] Keyboard INput
     - [ ] Mouse Input
     - [ ] Gamepad Input
     - [ ] Input Profiles
