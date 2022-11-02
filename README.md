@@ -8,6 +8,8 @@ TurtleEngine.Input
 ## Core Input Module for Turtle Engine
 TurlteEngine.Input is the core input module for Turlte Engine, a [MonoGame Framework](https://monogame.net) based engine..  It is currently being developed and is not ready for use of any kind.
 
+[![build and test](https://github.com/TurtleEngine/TurtleEngine.Input/actions/workflows/build-and-test.yml/badge.svg)](https://github.com/TurtleEngine/TurtleEngine.Input/actions/workflows/build-and-test.yml)
+
 ## Version 1.0 Roadmap
 - [x] Keyboard Input State Management
 - [ ] Mouse Input State Management
