@@ -59,8 +59,8 @@ public sealed class KeyboardInput
     ///     The keyboard key to check.
     /// </param>
     /// <returns>
-    ///     <see langword="true"/> if the specified keyboard key is currently
-    ///     being pressed down; otherwise, <see langword="false"/>.
+    ///     <see langword="true"/> if <paramref name="key"/> is currently being
+    ///     pressed down; otherwise, <see langword="false"/>.
     /// </returns>
     public bool IsKeyDown(Keys key) => CurrentState.IsKeyDown(key);
 
