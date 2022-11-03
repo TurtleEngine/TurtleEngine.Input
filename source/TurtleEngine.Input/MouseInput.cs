@@ -46,7 +46,7 @@ public sealed class MouseInput
     ///     Gets the delta of the scroll wheel value betwen the previous frame
     ///     and the current frame.
     /// </summary>
-    public int ScrollWheelDelta => PreviousState.ScrollWheelValue - CurrentState.ScrollWheelValue;
+    public int ScrollWheelDelta => CurrentState.ScrollWheelValue - PreviousState.ScrollWheelValue;
 
     /// <summary>
     ///     Get or Sets the xy-coordinate position of the mouse.
