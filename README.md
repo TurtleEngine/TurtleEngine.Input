@@ -12,7 +12,7 @@ TurlteEngine.Input is the core input module for Turlte Engine, a [MonoGame Frame
 
 ## Version 1.0 Roadmap
 - [x] Keyboard Input State Management
-- [ ] Mouse Input State Management
+- [x] Mouse Input State Management
 - [ ] Gamepad Input State Management
 - [ ] Input Profiles
     - [ ] Virtual Button
@@ -20,7 +20,7 @@ TurlteEngine.Input is the core input module for Turlte Engine, a [MonoGame Frame
     - [ ] Virtual D-pad
 - [ ] Unit Tests
     - [x] Keyboard Test
-    - [ ] Mouse Tests
+    - [x] Mouse Tests
     - [ ] Gamepad Tests
     - [ ] Input Profile Tests
         - [ ] Virtual Button
@@ -28,7 +28,7 @@ TurlteEngine.Input is the core input module for Turlte Engine, a [MonoGame Frame
         - [ ] Virtual D-pad
 - [ ] XML Documentation
     - [x] Keyboard INput
-    - [ ] Mouse Input
+    - [x] Mouse Input
     - [ ] Gamepad Input
     - [ ] Input Profiles
         - [ ] Virtual Button
